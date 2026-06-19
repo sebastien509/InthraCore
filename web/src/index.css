@@ -1,1 +1,27 @@
+@layer base {
+  body {
+    @apply bg-[#F7F7F3] text-[#06231C] antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
 @import "tailwindcss";
+
+
+/* Custom scrollbar for sidebar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+/* Glass effect utility */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}

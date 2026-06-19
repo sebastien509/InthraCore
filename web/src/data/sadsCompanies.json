@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "slug": "healthguard-ai",
+      "name": "HealthGuard AI",
+      "tagline": "Auditable claims processing for insurers",
+      "logo": "https://res.cloudinary.com/dvcmopd4q/image/upload/v1773349875/d83cbb18-2d41-4d79-8e2a-4d5ef303e442_-_Edited_wmeob2.png",
+      "video": "https://www.youtube.com/embed/fKnSpdqSKYQ",
+      "pilot": "Deploying a privacy-preserving claims validation model that processes sensitive patient data entirely on-premises, with real-time audit receipts for regulatory compliance.",
+      "environment": "On‑prem + VPC",
+      "outcomes": [
+        "Reduce compliance fines by 90%",
+        "Lower hallucination rates under 2%",
+        "Audit‑ready outputs in real time"
+      ],
+      "metrics": [
+        { "value": "90%", "label": "Compliance Risk Reduction" },
+        { "value": "<2%", "label": "Hallucination Rate" },
+        { "value": "Real-Time", "label": "Audit Receipts" }
+      ],
+      "contactEmail": "founder@healthguard.ai"
+    },
+    {
+      "slug": "gridmind-energy",
+      "name": "GridMind Energy",
+      "tagline": "Sovereign anomaly detection for critical infrastructure",
+      "logo": "/images/sads/gridmind-logo.png",
+      "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "pilot": "Edge-deployed anomaly detection across 120 substations, using local inference to identify grid faults without sending data to the cloud.",
+      "environment": "Edge (on‑device) + private 5G",
+      "outcomes": [
+        "Reduce data egress costs by 95%",
+        "Detect faults in under 50ms",
+        "Maintain full data sovereignty"
+      ],
+      "metrics": [
+        { "value": "95%", "label": "Data Egress Reduction" },
+        { "value": "<50ms", "label": "Fault Detection" },
+        { "value": "Sovereign", "label": "Data Control" }
+      ],
+      "contactEmail": "hello@gridmind.energy"
+    }
+  ]
+}

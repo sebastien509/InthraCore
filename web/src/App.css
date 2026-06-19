@@ -1,2 +1,6 @@
 @import "tailwindcss";
 @import "leaflet/dist/leaflet.css";
+.animate-gradient-x {
+    background-size: 200% auto;
+    animation: gradient-x 3s ease infinite;
+  }

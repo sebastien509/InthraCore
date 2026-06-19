@@ -1,0 +1,40 @@
+{
+    "podcasts": [
+      {
+        "id": 1,
+        "title": "The Sovereign Intelligence Era",
+        "host": "InthraCore",
+        "guest": "Dr. Lina Rahman",
+        "excerpt": "Exploring privacy-first intelligence infrastructure and the future of operational AI.",
+        "duration": "34 min",
+        "audioUrl": "/audio/podcasts/sovereign-era.mp3",
+        "thumbnail": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=1000&auto=format&fit=crop",
+        "coverImage": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=2000&auto=format&fit=crop",
+        "slug": "sovereign-intelligence-era"
+      },
+      {
+        "id": 2,
+        "title": "Auditing the Black Box",
+        "host": "InthraCore",
+        "guest": "Marcus Chen",
+        "excerpt": "How to make AI systems auditable without sacrificing performance or privacy.",
+        "duration": "41 min",
+        "audioUrl": "/audio/podcasts/auditing-black-box.mp3",
+        "thumbnail": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?q=80&w=1000&auto=format&fit=crop",
+        "coverImage": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?q=80&w=2000&auto=format&fit=crop",
+        "slug": "auditing-the-black-box"
+      },
+      {
+        "id": 3,
+        "title": "Edge AI in Critical Infrastructure",
+        "host": "InthraCore",
+        "guest": "Dr. Priya Sharma",
+        "excerpt": "Real‑world deployments of sovereign AI in energy grids, water systems, and logistics.",
+        "duration": "52 min",
+        "audioUrl": "/audio/podcasts/edge-critical.mp3",
+        "thumbnail": "https://images.unsplash.com/photo-1581092335871-4b7eec5c1dc6?q=80&w=1000&auto=format&fit=crop",
+        "coverImage": "https://images.unsplash.com/photo-1581092335871-4b7eec5c1dc6?q=80&w=2000&auto=format&fit=crop",
+        "slug": "edge-ai-critical-infrastructure"
+      }
+    ]
+  }

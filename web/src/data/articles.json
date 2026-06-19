@@ -1,0 +1,118 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Auditable AI Systems for Regulated Industries",
+        "excerpt": "How sovereign AI creates transparent operational systems for finance, healthcare, and government sectors.",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+        "category": "Research",
+        "date": "2026-05-14",
+        "author": "Inthra Research Lab",
+        "slug": "auditable-ai-systems",
+        "readingTime": 9,
+        "hook": "AI systems are no longer judged solely by capability. Enterprises now demand traceability, operational visibility, and audit-ready intelligence.",
+        "body": [
+          "Modern enterprises operate under increasingly strict compliance requirements. Black-box AI systems introduce operational and legal uncertainty.",
+          "Auditable AI introduces transparent reasoning layers, inference tracking, and explainability pipelines that allow organizations to validate decisions.",
+          "Sovereign architectures further strengthen this model by ensuring sensitive operational data never leaves trusted boundaries."
+        ],
+        "closing": "The future of enterprise AI belongs to systems that are not only intelligent, but observable, accountable, and operationally trusted."
+      },
+      {
+        "id": 2,
+        "title": "Edge-Native Intelligence Architectures",
+        "excerpt": "Why moving inference closer to operational environments changes enterprise resilience forever.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop",
+        "category": "Guide",
+        "date": "2026-05-18",
+        "author": "Infrastructure Systems Team",
+        "slug": "edge-native-intelligence",
+        "readingTime": 11,
+        "hook": "Centralized AI systems create latency, privacy, and dependency risks for mission-critical operations.",
+        "body": [
+          "Edge-native architectures distribute intelligence closer to operational data sources.",
+          "This dramatically improves responsiveness, resilience, and privacy guarantees.",
+          "Organizations across healthcare, logistics, defense, and energy are increasingly shifting toward local AI orchestration layers."
+        ],
+        "closing": "The next decade of AI infrastructure will prioritize sovereignty and operational autonomy over centralized dependence."
+      },
+      {
+        "id": 3,
+        "title": "Operational Intelligence Beyond Chatbots",
+        "excerpt": "AI is evolving from assistants into operational systems capable of orchestrating workflows and decisions.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?q=80&w=1200&auto=format&fit=crop",
+        "category": "Operations",
+        "date": "2026-05-22",
+        "author": "Systems Intelligence Team",
+        "slug": "operational-intelligence-beyond-chatbots",
+        "readingTime": 8,
+        "hook": "The enterprise AI conversation is moving beyond copilots toward operational reasoning systems.",
+        "body": [
+          "Operational intelligence systems integrate data flows, orchestration layers, and predictive analysis into a unified operational framework.",
+          "Unlike traditional chat systems, these architectures interact with enterprise infrastructure directly.",
+          "This evolution creates new requirements around governance, observability, and access control."
+        ],
+        "closing": "Organizations that operationalize AI responsibly will define the next generation of digital infrastructure."
+      },
+      {
+        "id": 4,
+        "title": "Privacy Receipts: Verifiable AI Transparency",
+        "excerpt": "A cryptographic approach to proving AI system compliance without exposing sensitive data.",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop",
+        "category": "Privacy",
+        "date": "2026-05-25",
+        "author": "Cryptography Research Unit",
+        "slug": "privacy-receipts-verifiable-ai",
+        "readingTime": 12,
+        "hook": "How can an AI system prove it followed privacy rules without revealing the data it processed?",
+        "body": [
+          "Privacy receipts combine zero-knowledge proofs with tamper‑evident logs to create auditable privacy guarantees.",
+          "This allows organizations to demonstrate GDPR, HIPAA, or EU AI Act compliance in real time.",
+          "Early adopters in healthcare and finance have reduced audit preparation costs by over 60%."
+        ],
+        "closing": "Privacy receipts turn compliance from a periodic burden into a continuous, verifiable property."
+      },
+      {
+        "id": 5,
+        "title": "Federated Governance for Multi‑Stakeholder AI",
+        "excerpt": "Design patterns for AI systems that respect jurisdictional rules and organizational boundaries.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
+        "category": "Governance",
+        "date": "2026-05-28",
+        "author": "Policy & Ethics Lab",
+        "slug": "federated-governance-multi-stakeholder",
+        "readingTime": 10,
+        "hook": "As AI crosses borders, governance must be both local and interoperable.",
+        "body": [
+          "Federated governance models allow each jurisdiction to enforce its own rules while participating in global inference networks.",
+          "Technical mechanisms include policy containers, attestation services, and dynamic rule enforcement.",
+          "This approach is being piloted in EU‑US data transfer agreements for financial AI."
+        ],
+        "closing": "Sovereign AI does not mean isolation – it means controlled, auditable interaction."
+      },
+      {
+        "id": 6,
+        "title": "Small Language Models for Enterprise Edge Deployments",
+        "excerpt": "Why SLMs are outperforming LLMs in latency‑sensitive, privacy‑critical environments.",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1200&auto=format&fit=crop",
+        "category": "Research",
+        "date": "2026-05-30",
+        "author": "Edge AI Research Group",
+        "slug": "small-language-models-enterprise-edge",
+        "readingTime": 9,
+        "hook": "Bigger isn't always better – especially when data cannot leave the premises.",
+        "body": [
+          "Small language models (SLMs) with 1‑7B parameters can run on commodity hardware while preserving data locality.",
+          "Fine‑tuned SLMs match or exceed LLM performance on specific enterprise tasks like document classification, redaction, and compliance checks.",
+          "Organizations report 80% lower inference costs and zero data egress after switching to SLMs."
+        ],
+        "closing": "The future of enterprise AI is a portfolio of specialized, sovereign models – not a single monolithic API."
+      }
+    ]
+  }

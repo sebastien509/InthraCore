@@ -1,0 +1,22 @@
+{
+    "testimonials": [
+      {
+        "quote": "InthraCore is one of the few platforms discussing AI from an operational and governance perspective rather than hype.",
+        "name": "CTO – Financial Services",
+        "role": "Enterprise Infrastructure",
+        "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "quote": "The focus on sovereignty and privacy-first AI is becoming increasingly critical for modern enterprises.",
+        "name": "AI Policy Advisor",
+        "role": "Government Innovation",
+        "avatar": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "quote": "The open audit framework saved us months of compliance engineering work.",
+        "name": "Head of AI Governance",
+        "role": "Healthcare Provider",
+        "avatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  }

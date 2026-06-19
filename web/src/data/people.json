@@ -1,0 +1,31 @@
+{
+    "people": [
+      {
+        "id": 1,
+        "name": "Dr. Lina Rahman",
+        "role": "AI Governance Lead",
+        "bio": "Researches sovereign intelligence systems and enterprise governance architectures.",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&auto=format&fit=crop",
+        "slug": "dr-lina-rahman",
+        "tags": ["Governance", "Ethics", "Policy"]
+      },
+      {
+        "id": 2,
+        "name": "Marcus Chen",
+        "role": "Infrastructure Architect",
+        "bio": "Focuses on edge-native AI deployment and operational resilience systems.",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=800&auto=format&fit=crop",
+        "slug": "marcus-chen",
+        "tags": ["Edge AI", "Kubernetes", "Privacy"]
+      },
+      {
+        "id": 3,
+        "name": "Dr. Priya Sharma",
+        "role": "Research Director",
+        "bio": "Leads the Edge AI research track, focusing on critical infrastructure applications.",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=800&auto=format&fit=crop",
+        "slug": "dr-priya-sharma",
+        "tags": ["Research", "ML", "Energy"]
+      }
+    ]
+  }

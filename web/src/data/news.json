@@ -1,0 +1,114 @@
+{
+    "news": [
+      
+          {
+            "id": 1,
+            "title": "Global Enterprises Accelerate Sovereign AI Adoption",
+            "excerpt": "Organizations increasingly seek local and private AI deployments to reduce dependency risks.",
+            "description": "Growing compliance demands and operational resilience concerns are driving enterprise adoption of sovereign AI infrastructure and local inference systems.",
+            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2400&auto=format&fit=crop",
+            "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
+            "date": "2026-05-26",
+            "publishedAt": "2026-05-26T09:00:00Z",
+            "updatedAt": "2026-05-26T09:00:00Z",
+            "slug": "enterprise-sovereign-ai-growth",
+            "category": "AI Governance",
+            "tags": ["Sovereign AI", "Enterprise", "Privacy", "Compliance"],
+            "featured": true,
+            "readingTime": "7 min",
+            "hook": "Enterprise leaders are rapidly rethinking AI deployment models.",
+            "body": [
+              "Across 2025 and into 2026, a quiet but decisive shift has reshaped enterprise AI strategy. Organisations that once rushed to integrate cloud‑based large language models are now re‑evaluating their deployment architectures with a new priority: sovereignty. The catalyst has been a combination of cross‑border data transfer restrictions, high‑profile cloud outages, and the maturation of privacy‑preserving inference technology.",
+              "Healthcare providers, financial institutions, and government agencies have been the first movers. These sectors handle data that is not only sensitive but also heavily regulated by frameworks such as GDPR, HIPAA, and emerging AI‑specific legislation. For them, sending patient records or financial transactions to a shared cloud API simply isn’t an option – not because the technology doesn’t work, but because the legal and reputational risks are too great.",
+              "\"Organisations can no longer treat privacy and AI deployment as separate challenges,\" says Sarah Mitchell, Chief Privacy Officer at RESL Privacy. \"Sovereign AI enables both operational control and regulatory confidence. It’s not about distrust of the cloud; it’s about building systems that are resilient to geopolitical, legal, and operational uncertainty.\"",
+              "Analysts at Gartner and Forrester have begun publishing research notes that frame sovereign AI as a foundational infrastructure trend, comparable to the zero‑trust security movement of the previous decade. One widely‑cited Gartner report predicts that by 2028, 65% of large enterprises will have moved sensitive AI workloads to local or hybrid sovereign environments.",
+              "The technology underpinning this shift is no longer experimental. On‑device accelerators, confidential computing enclaves, and edge‑orchestration platforms like InthraOS now allow models to run entirely within a customer’s virtual private cloud or on‑premises data centre. These systems provide the same inference performance as public APIs while adding verifiable audit trails and privacy receipts – cryptographic proofs that data was handled according to policy."
+            ],
+            "closing": "Sovereign AI is no longer a niche concern for defence agencies or paranoid CISOs. It is becoming a strategic pillar for any enterprise that handles sensitive data and wants to maintain long‑term competitive agility.",
+            "quotes": [
+              {
+                "name": "Sarah Mitchell",
+                "title": "Chief Privacy Officer",
+                "company": "RESL Privacy",
+                "quote": "Organisations can no longer treat privacy and AI deployment as separate challenges. Sovereign AI enables both operational control and regulatory confidence."
+              }
+            ],
+            "technicalHighlights": [
+              "On‑device inference via confidential computing",
+              "Zero‑trust architecture with hardware attestation",
+              "Encrypted vector storage and retrieval",
+              "Policy‑based access controls with real‑time audit",
+              "Privacy receipt generation per query"
+            ],
+            "industryContext": {
+              "problem": "Cross‑border data transfer regulations and cloud dependency risks force enterprises to seek local alternatives for AI workloads.",
+              "trend": "The market is moving from cloud‑only AI to hybrid sovereign architectures, with healthcare and finance leading adoption.",
+              "impact": "Regulated industries are expected to drive the next wave of AI infrastructure spending, with sovereign deployments growing at 34% CAGR through 2030."
+            }
+          },
+      {
+        "id": 2,
+        "title": "InthraCore Launches Open Audit Framework for AI Systems",
+        "excerpt": "New open‑source toolkit enables continuous, verifiable compliance checks for edge‑deployed AI.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2400&auto=format&fit=crop",
+        "date": "2026-05-24",
+        "slug": "open-audit-framework-launch",
+        "hook": "Auditability has been a missing piece in responsible AI – until now.",
+        "body": [
+          "The Open Audit Framework provides runtime attestation and policy validation for any AI model.",
+          "It integrates with Kubernetes, Docker, and bare‑metal deployments.",
+          "Early access is available for InthraCore community members."
+        ],
+        "closing": "Auditability is no longer an afterthought – it’s built in from the start."
+      },
+      {
+        "id": 3,
+        "title": "EU AI Act Compliance Blueprint Released",
+        "excerpt": "Practical implementation guide for high‑risk AI systems under the new European regulation.",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2400&auto=format&fit=crop",
+        "date": "2026-05-20",
+        "slug": "eu-ai-act-compliance-blueprint",
+        "hook": "The EU AI Act introduces new technical requirements for high‑risk AI systems.",
+        "body": [
+          "The blueprint covers risk management, data governance, transparency, and human oversight.",
+          "Reference implementations are available for financial services and medical devices.",
+          "Compliance costs can be reduced by up to 50% using automated governance pipelines."
+        ],
+        "closing": "Compliance is a technical challenge – and we’ve open‑sourced the solution."
+      },
+      {
+        "id": 4,
+        "title": "Healthcare AI Consortium Adopts InthraCore Stack",
+        "excerpt": "Major hospital network selects sovereign AI for patient data processing and diagnostic support.",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2400&auto=format&fit=crop",
+        "date": "2026-05-18",
+        "slug": "healthcare-ai-consortium-adoption",
+        "hook": "Patient privacy and clinical accuracy are no longer trade‑offs.",
+        "body": [
+          "The consortium processes over 500,000 patient records monthly using local inference nodes.",
+          "Privacy receipts provide per‑query compliance evidence for audits.",
+          "The deployment reduced cloud data transfer by 92% while maintaining diagnostic accuracy."
+        ],
+        "closing": "Healthcare AI can be both powerful and private – we’re proving it."
+      },
+      {
+        "id": 5,
+        "title": "InthraCore Welcomes New Research Partners from Asia‑Pacific",
+        "excerpt": "Academic and industry collaborations expand sovereign AI research across Japan, South Korea, and Singapore.",
+        "image": "https://images.unsplash.com/photo-1523480717984-24cba35ae1ef?q=80&w=2400&auto=format&fit=crop",
+        "thumbnail": "https://images.unsplash.com/photo-1523480717984-24cba35ae1ef?q=80&w=2400&auto=format&fit=crop",
+        "date": "2026-05-15",
+        "slug": "apac-research-partners",
+        "hook": "Sovereign AI is a global movement – not a Western one.",
+        "body": [
+          "New research hubs focus on cross‑border data governance and culturally aligned AI ethics.",
+          "Joint white papers on federated learning and local model optimization are planned for Q3.",
+          "The community now spans 24 countries across five continents."
+        ],
+        "closing": "The future of accountable AI will be shaped everywhere, by everyone."
+      }
+    ]
+  }
