@@ -1,4 +1,4 @@
-import section from '../components/ui/section';
+import Section from '../components/ui/section';
 import { Link } from 'react-router-dom';
 
 export default function NotFound() {
