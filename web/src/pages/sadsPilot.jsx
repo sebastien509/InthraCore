@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { pilotData } from '../data/pilotData';
+import Section from '../components/ui/section';
 
 export default function SadsPilot() {
   const { companySlug } = useParams();
