@@ -758,7 +758,7 @@ export default function SadsPilot() {
             &middot;
             {' '}
             <a
-              href="mailto:team@inthraos.com"
+              href="mailto:context@inthraos.com"
               className="text-emerald-700 hover:underline"
             >
               Contact team
